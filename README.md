@@ -12,20 +12,21 @@ My name is Bob. I started my career in QA but after 8 years I was was done with 
 
 ### About Me
 ------------
- - I love live music and enjoy attending bluegrass music festivals.
- - I'm currently working as a node agent engineer at [Contrast Security](https://www.contrastsecurity.com)
- - I'm learning about the vast world of application security and DevSecOps.
- - I love javascript and have been writing Node.js for 7 years.
+ - 😄 Pronouns: He/Him
+ - 🎻 I love live music and enjoy attending bluegrass music festivals.
+ - 🐱‍💻 I'm currently working as a node agent engineer at [Contrast Security](https://www.contrastsecurity.com)
+ - 📚 The vast world of application security and DevSecOps.
+ - ❤️  Javascript and have been writing Node.js for 7 years.
  - I've become really good at Node.js instrumentation.
  - I've been working at both software and web consulting companies since 2005
  - I am passionate about all types of testing to mitigate risk when shipping software.
  - I enjoy working in a DevOps environment.
    - I love automating infrastructure to always be shipping.
- - I flourish in environments that have a well defined SDLC.
+ - 🌱 I flourish in environments that have a well defined SDLC.
  - I appreciate a good style guide but if it can't be automated, ⛔ bikeshedding.
  - Languages
     - 👍: Node.js, Python, Bash, Perl, and Go.
     - 👎: Java
- - Twitter: [@bizob2828](https://www.twitter.com/bizob2828)
+ - 📫 [@bizob2828](https://www.twitter.com/bizob2828)
 
 
