@@ -1,14 +1,14 @@
 ### Welcome 👋
-![Octocat Profile Pic](octocat.png)
+![Octocat Profile Pic](bob-octocat.png)
 
 ---------------
 ### Intro
-My name is Bob. I started my career in QA but after 8 years I was was done with writing code to test code. I wanted to actually ship software that people used. I've held positions as invidual contributors as well as middle management. 
+My name is Bob. I started my career in QA but after 8 years I was was done with writing code to test code. I wanted to actually ship software that people used. I've held positions as invidual contributors as well as middle management.
 
  - 👨‍👩‍👧‍👦 Married with two kids
- - 👨‍💻 Principal Software Engineer 
+ - 👨‍💻 Principal Software Engineer
  - 🦀 Baltimore resident for 16 years
-  
+
 
 ### About Me
 ------------
