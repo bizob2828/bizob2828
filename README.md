@@ -1,5 +1,5 @@
 ### Welcome 👋
-![Octocat Profile Pic](bob-octocat.png)
+![Octocat Profile Pic](https://github.com/bizob2828/bizob2828/blob/master/bob-octocat.png)
 
 ---------------
 ### Intro
