@@ -1,5 +1,5 @@
 ### Intro
-My name is Bob. I started my career in QA but after 8 years I was was done with writing code to test code. I wanted to actually ship software that people used. I've held positions as invidual contributors as well as middle management.
+My name is Bob. I started my career in QA but after 8 years I was was done with writing code to test code. I wanted to actually ship software that people used. I've held positions as an invidual contributor and in technical leadership.
 
  - 👨‍👩‍👧‍👦 Married with two kids
  - 👨‍💻 Lead Software Engineer
@@ -14,7 +14,7 @@ My name is Bob. I started my career in QA but after 8 years I was was done with 
  - 📚 The vast world of application security and DevSecOps.
  - ❤️  Javascript and have been writing Node.js for 7 years.
  - I've become really good at Node.js instrumentation.
- - I've been working at both software and web consulting companies since 2005
+ - Previous gigs: [Prometrict](https://www.prometric.com), [Systems Alliance](https://www.systemsalliance.com), [SparkPost](https://www.sparkpost.com), [Contrast Security](https://www.contrastsecurity.com), [Whitebox](https://www.whitebox.com).
  - I am passionate about all types of testing to mitigate risk when shipping software.
  - I enjoy working in a DevOps environment.
    - I love automating infrastructure to always be shipping.
