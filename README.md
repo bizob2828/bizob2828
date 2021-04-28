@@ -14,7 +14,7 @@ My name is Bob. I started my career in QA but after 8 years I was was done with 
  - 📚 The vast world of application security and DevSecOps.
  - ❤️  Javascript and have been writing Node.js for 7 years.
  - I've become really good at Node.js instrumentation.
- - Previous gigs: [Prometrict](https://www.prometric.com), [Systems Alliance](https://www.systemsalliance.com), [SparkPost](https://www.sparkpost.com), [Contrast Security](https://www.contrastsecurity.com), [Whitebox](https://www.whitebox.com).
+ - Previous gigs: [Prometric](https://www.prometric.com), [Systems Alliance](https://www.systemsalliance.com), [SparkPost](https://www.sparkpost.com), [Contrast Security](https://www.contrastsecurity.com), [Whitebox](https://www.whitebox.com).
  - I am passionate about all types of testing to mitigate risk when shipping software.
  - I enjoy working in a DevOps environment.
    - I love automating infrastructure to always be shipping.
