@@ -21,6 +21,6 @@ My name is Bob. I started my career in QA but after 8 years I was was done with 
  - 🌱 I flourish in environments that have a well defined SDLC.
  - I appreciate a good style guide but if it can't be automated, ⛔ bikeshedding.
  - Languages I enjoy: Node.js, Python, Bash, Perl, and Go.
- - 🐦[@bizob2828](https://www.twitter.com/bizob2828)
+ - [@bizob2828](https://www.twitter.com/bizob2828)
 
 
