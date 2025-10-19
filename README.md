@@ -3,17 +3,17 @@ My name is Bob. I started my career in QA but after 8 years I was was done with 
 
  - 👨‍👩‍👧‍👦 Married with two kids
  - 👨‍💻 Lead Software Engineer
- - 🦀 Baltimore resident for 18 years
+ - 🦀 Baltimore resident for 21 years 
 
 
 ### About Me
 ------------
  - 😄 Pronouns: He/Him
- - [@bizob2828](https://www.twitter.com/bizob2828)
+ - [@bizob2828](https://bsky.app/profile/bizob2828.bsky.social)
  - 🎻 I love live music and enjoy attending bluegrass music festivals.
  - 🐱‍💻 I'm currently working on the [Node.js agent](https://github.com/newrelic/node-newrelic) at [New Relic](https://newrelic.com/).
  - 📚 The vast world of application security and DevSecOps.
- - ❤️  Javascript and have been writing Node.js for 10 years.
+ - ❤️  Javascript and have been writing Node.js for 12 years.
  - I've become really good at Node.js instrumentation.
  - Previous gigs: [Whitebox](https://www.whitebox.com), [Contrast Security](https://www.contrastsecurity.com), [SparkPost](https://www.sparkpost.com), [Systems Alliance](https://www.systemsalliance.com), [Prometric](https://www.prometric.com)
  - I am passionate about all types of testing to mitigate risk when shipping software.
